@@ -38,5 +38,6 @@ Esta aplicación Shiny genera un mapa de calor interactivo utilizando datos de u
 
 8. Interactividad y respuesta en tiempo real: La aplicación es interactiva y responde en tiempo real a las selecciones del usuario en la interfaz.
 
+![Interfaz de Usuario](https://raw.githubusercontent.com/Pgadatos/Visualizacion-Censo-2017-Chile/main/AP1 (2).png)
 
 
